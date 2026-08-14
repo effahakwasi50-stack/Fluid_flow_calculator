@@ -1,0 +1,6 @@
+{
+  "name": "Fluid Flow & Heat Transfer Engineering Suite",
+  "description": "A comprehensive Streamlit engineering application for pipe flow hydraulics, heat transfer calculations, and rock/fluid data analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
