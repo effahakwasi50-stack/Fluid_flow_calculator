@@ -235,7 +235,7 @@ PLOTLY_DARK_LAYOUT = dict(
     paper_bgcolor="#161b22",
     plot_bgcolor="#0d1117",
     font=dict(color="#8b949e", family="Inter, sans-serif", size=12),
-    title=dict(font=dict(color="#f0f6fc", family="Cinzel, serif", size=15)),
+    title_font=dict(color="#f0f6fc", family="Cinzel, serif", size=15),
     xaxis=dict(
         gridcolor="#21262d",
         zerolinecolor="#30363d",
